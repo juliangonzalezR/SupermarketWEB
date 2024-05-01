@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace SuperMarketWEB.Pages
+namespace SupermarketWEB.Pages
 {
     public class PrivacyModel : PageModel
     {
@@ -16,5 +16,4 @@ namespace SuperMarketWEB.Pages
         {
         }
     }
-
 }
